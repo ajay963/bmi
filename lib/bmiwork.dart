@@ -30,7 +30,7 @@ class Fxbmi {
     } else if (_bmi > 18.5) {
       return 'Keep it Up, Good Job';
     } else {
-      return 'Khana khaya karo, Aise nahi chaalboo';
+      return 'Low body weight ,please maintain your daily meal';
     }
   }
 }

@@ -96,7 +96,7 @@ class _HomeState extends State<Home> {
               },
               child: Center(
                   child: Container(
-                color: Colors.black,
+                color: Colors.red[400],
                 width: double.infinity,
                 height: double.infinity,
                 padding: EdgeInsets.only(top: 20),
@@ -104,7 +104,7 @@ class _HomeState extends State<Home> {
                   type: 'CALCULATE',
                   size: 40,
                   weight: FontWeight.w900,
-                  colour: Colors.white,
+                  colour: Colors.grey[50],
                 ),
               )),
             ))
