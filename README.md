@@ -3,6 +3,7 @@ Application that calculates your Body Mass Index and suggest what you should do 
 A new Flutter application.
 
 ## Getting Started
+<img src="assets/bmi.png" height=300 width=300>
 
 This project is a starting point for a Flutter application.
 
