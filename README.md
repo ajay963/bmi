@@ -1,5 +1,5 @@
 # bmi
-
+Application that calculates your Body Mass Index and suggest what you should do according to your BMI 
 A new Flutter application.
 
 ## Getting Started
